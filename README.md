@@ -13,7 +13,7 @@ This project is an implementation of the Flappy Bird game using machine learning
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flappy-bird-ML.git
+   git clone https://github.com/LTPPPP/Flappy-bird-auto.git
    ```
 2. Navigate to the project directory:
    ```sh
